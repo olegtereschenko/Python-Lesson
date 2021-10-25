@@ -1,0 +1,5 @@
+name = input('Как вас зовут?')
+secondname = input('Ваша фамилия?')
+age = input('Ваш возраст?')
+weight = input('Ваш вес?')
+print('Вас зовут:',name,'Ваша фамилия:',secondname,'Ваш возраст:',age,'Ваш вес:',weight)
