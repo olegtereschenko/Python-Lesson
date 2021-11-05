@@ -1,0 +1,5 @@
+Semenov 34000
+Tupin 12000
+Stepanov 23000
+Volkov 45000
+Lutik 41000
