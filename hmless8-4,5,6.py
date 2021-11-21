@@ -27,3 +27,4 @@ class Copy(Equipment):
         super().__init__(model, color, paper, dpi,printspeed, maxpaper)
 
 class Scanner(Equipment):
+    
